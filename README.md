@@ -1,6 +1,6 @@
-# Logo stylizer
+# 21 Inc. Logo
 
-Original logo (already takes huge artistic talent to design)
+Original logo (crowdsourced from Fiverr)
 
 ![circles](21-logo.png)
 
@@ -8,7 +8,7 @@ Style image
 
 ![infinity mirrored rooms style](21-infinity-style.jpg)
 
-Above two processed with a neural network style transfer algorithm
+Above two images are processed with a neural network style transfer algorithm
 
 ![neural output](21-infinity.jpg)
 
@@ -25,8 +25,8 @@ circles, and rendered it as an (infinitely scalable) svg.
 
 ![final logo](21-final-svg.png)
 
-I rasterized the image at 9k x 9k pixels as a `.tiff` file (300ppi at 30 in x
-30 in). Took it to a giclée printer (Berkeley Giclée, best value in the bay
+I rasterized the image at 9k x 9k pixels as a `.tiff` file, 300ppi at 30 in x
+30 in. Took it to a giclée printer (Berkeley Giclée, best value in the bay
 area), and had it printed.
 
 Mounted it in my company's foyer.
