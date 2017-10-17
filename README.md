@@ -20,7 +20,8 @@ Great, but two problems:
  4. Color profile is not quite right
 
 I adjusted the color profile slightly to bring out the nice blues. Then used an
-optimization algorithm to recreate the image using only semi-transparent
+optimization algorithm ([primitive](https://github.com/fogleman/primitive)) 
+to recreate the image using only semi-transparent
 circles, and rendered it as an (infinitely scalable) svg.
 
 ![final logo](21-final-svg.png)
